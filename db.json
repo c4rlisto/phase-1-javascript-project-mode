@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "question": "Who was the first woman to win the Nobel Prize?",
+      "answers": [
+        { "text": "Marie Curie", "img": "https://cdn.pixabay.com/photo/2023/03/05/05/55/ai-generated-7830678_960_720.jpg", "correct": true },
+        { "text": "Rosalind Franklin", "img": "https://cdn.pixabay.com/photo/2023/07/26/20/32/benjamin-franklin-8152003_640.png", "correct": false },
+        { "text": "Ada Lovelace", "img": "https://cdn.pixabay.com/photo/2024/08/31/20/20/ai-generated-9012247_1280.png", "correct": false },
+        { "text": "Dorothy Hodgkin", "img": "https://cdn.pixabay.com/photo/2017/07/11/14/18/princess-2493739_640.png", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the largest internal organ in the human body?",
+      "answers": [
+        { "text": "Heart", "img": "https://cdn.pixabay.com/photo/2016/10/24/03/37/heart-1765298_1280.png", "correct": false },
+        { "text": "Liver", "img": "https://media.istockphoto.com/id/1465361950/photo/xray-anterior-or-front-view-of-human-liver-3d-rendering-illustration-with-male-body-contours.jpg?s=612x612&w=is&k=20&c=ZPej8WBMQCZZmbU7sHHu2PzN1PXJDnYfk4fcsPSffxA=", "correct": true },
+        { "text": "Lungs", "img": "https://cdn.pixabay.com/photo/2020/02/13/05/53/coronavirus-4844592_640.jpg", "correct": false },
+        { "text": "Kidneys", "img": "https://cdn.pixabay.com/photo/2021/02/12/19/10/kidney-6009357_640.jpg", "correct": false }
+      ]
+    },
+    {
+      "question": "Which planet has the shortest days in our solar system?",
+      "answers": [
+        { "text": "Earth", "img": "https://cdn.pixabay.com/photo/2011/12/13/14/28/earth-11009_640.jpg", "correct": false },
+        { "text": "Jupiter", "img": "https://cdn.pixabay.com/photo/2021/09/03/06/33/jupiter-6595135_1280.jpg", "correct": true },
+        { "text": "Saturn", "img": "https://cdn.pixabay.com/photo/2022/10/19/08/37/planet-7531951_640.jpg", "correct": false },
+        { "text": "Mars", "img": "https://cdn.pixabay.com/photo/2011/12/13/14/30/mars-11012_640.jpg", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the smallest bone in the human body?",
+      "answers": [
+        { "text": "Femur", "img": "https://cdn.pixabay.com/photo/2017/11/10/21/16/bone-2937723_640.png", "correct": false },
+        { "text": "Tibia", "img": "https://cdn.pixabay.com/photo/2019/09/04/11/42/the-detail-of-the-bones-4451356_640.jpg", "correct": false },
+        { "text": "Stapes", "img": "https://cdn.pixabay.com/photo/2012/04/05/01/17/ear-25595_640.png", "correct": true },
+        { "text": "Ulna", "img": "https://cdn.pixabay.com/photo/2022/04/25/16/26/arms-7156357_640.png", "correct": false }
+      ]
+    },
+    {
+      "question": "Which country was the first to grant women the right to vote (1893)?",
+      "answers": [
+        { "text": "USA", "img": "https://cdn.pixabay.com/photo/2023/03/26/18/11/flag-7878877_640.jpg", "correct": false },
+        { "text": "New Zealand", "img": "https://cdn.pixabay.com/photo/2012/04/11/15/44/flag-28594_640.png", "correct": true },
+        { "text": "Australia", "img": "https://cdn.pixabay.com/photo/2015/11/04/14/07/flag-1022604_1280.png", "correct": false },
+        { "text": "Canada", "img": "https://cdn.pixabay.com/photo/2023/03/26/18/10/canada-7878869_1280.jpg", "correct": false }
+      ]
+    },
+    {
+      "question": "What year did the Berlin Wall fall?",
+      "answers": [
+        { "text": "1987", "img": "", "correct": false },
+        { "text": "1991", "img": "", "correct": false },
+        { "text": "1993", "img": "", "correct": false },
+        { "text": "1989", "img": "", "correct": true }
+      ]
+    },
+    {
+      "question": "What is the capital of Kazakhstan?",
+      "answers": [
+        { "text": "Almaty", "img": "https://cdn.pixabay.com/photo/2024/11/13/08/47/city-9193823_640.jpg", "correct": false },
+        { "text": "Astana", "img": "https://cdn.pixabay.com/photo/2020/04/18/01/04/cityscape-5057263_640.png", "correct": true },
+        { "text": "Shymkent", "img": "https://cdn.pixabay.com/photo/2018/12/10/16/22/city-3867295_640.png", "correct": false },
+        { "text": "Karaganda", "img": "https://cdn.pixabay.com/photo/2022/01/11/17/04/city-6931092_640.jpg", "correct": false }
+      ]
+    },
+    {
+      "question": "Which two countries share the longest international border?",
+      "answers": [
+        { "text": "USA and Mexico", "img": "", "correct": false },
+        { "text": "Russia and China", "img": "", "correct": false },
+        { "text": "Canada and USA", "img": "", "correct": true },
+        { "text": "Brazil and Argentina", "img": "", "correct": false }
+      ]
+    },
+    {
+      "question": "Which country has the most natural lakes in the world?",
+      "answers": [
+        { "text": "Canada", "img": "https://cdn.pixabay.com/photo/2023/03/26/18/10/canada-7878869_1280.jpg", "correct": true },
+        { "text": "Russia", "img": "https://cdn.pixabay.com/photo/2016/01/29/23/59/russian-flag-1168905_640.jpg", "correct": false },
+        { "text": "USA", "img": "https://cdn.pixabay.com/photo/2023/03/26/18/11/flag-7878877_640.jpg", "correct": false },
+        { "text": "Finland", "img": "https://cdn.pixabay.com/photo/2015/11/12/16/24/flag-1040601_1280.png", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the title of Leonardo da Vinci's famous painting of a woman?",
+      "answers": [
+        { "text": "The Last Supper", "img": "", "correct": false },
+        { "text": "Mona Lisa", "img": "", "correct": true },
+        { "text": "The Birth of Venus", "img": "", "correct": false },
+        { "text": "Pride of the Magi", "img": "", "correct": false }
+      ]
+    },
+    {
+      "question": "Who is the author of the 'Harry Potter' series?",
+      "answers": [
+        { "text": "J.R.R. Tolkien", "img": "", "correct": false },
+        { "text": "J.K. Rowling", "img": "", "correct": true },
+        { "text": "C.S. Lewis", "img": "", "correct": false },
+        { "text": "George R.R. Martin", "img": "", "correct": false }
+      ]
+    },
+    {
+      "question": "Who was the author of the play 'Romeo and Juliet'?",
+      "answers": [
+        { "text": "Christopher Marlowe", "img": "", "correct": false },
+        { "text": "Ben Jonson", "img": "", "correct": false },
+        { "text": "John Donne", "img": "", "correct": false },
+        { "text": "William Shakespeare", "img": "", "correct": true }
+      ]
+    },
+    {
+      "question": "Which country invented paper?",
+      "answers": [
+        { "text": "Egypt", "img": "https://cdn.pixabay.com/photo/2015/11/12/16/23/flag-1040586_640.png", "correct": false },
+        { "text": "USA", "img": "https://cdn.pixabay.com/photo/2020/11/12/05/21/american-flag-5734426_640.png", "correct": false },
+        { "text": "China", "img": "https://cdn.pixabay.com/photo/2017/05/12/09/07/china-2306580_640.png", "correct": true },
+        { "text": "India", "img": "https://cdn.pixabay.com/photo/2022/06/21/02/47/indian-national-flag-7274918_640.png", "correct": false }
+      ]
+    },
+    {
+      "question": "In music, how many notes does a standard piano have?",
+      "answers": [
+        { "text": "88", "img": "", "correct": true },
+        { "text": "76", "img": "", "correct": false },
+        { "text": "64", "img": "", "correct": false },
+        { "text": "92", "img": "", "correct": false }
+      ]
+    },
+    {
+      "question": "Which famous scientist developed the theory of relativity?",
+      "answers": [
+        { "text": "Isaac Newton", "img": "https://cdn.pixabay.com/photo/2024/04/28/21/15/ai-generated-8726346_640.png", "correct": false },
+        { "text": "Albert Einstein", "img": "https://cdn.pixabay.com/photo/2022/05/05/15/21/man-7176384_640.jpg", "correct": true },
+        { "text": "Galileo Galilei", "img": "https://cdn.pixabay.com/photo/2024/04/28/21/23/ai-generated-8726355_640.png", "correct": false },
+        { "text": "Nikola Tesla", "img": "https://cdn.pixabay.com/photo/2020/07/25/21/42/man-5437917_640.png", "correct": false }
+      ]
+    }
+  ]
+}
